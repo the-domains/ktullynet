@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: More to come.
-dateModified: '2017-08-07T13:08:09.101Z'
-datePublished: '2017-08-07T13:08:09.827Z'
+dateModified: '2017-08-07T13:08:53.741Z'
+datePublished: '2017-08-07T13:08:56.686Z'
 title: 3 days to OCA Java SE 8 Programmer I (1Z0-808)
 author: []
 publisher:
@@ -22,3 +22,9 @@ _type: MediaObject
 # 3 days to OCA Java SE 8 Programmer I (1Z0-808)
 
 More to come.
+
+## General
+
+## Java
+
+## Disclaimer
