@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Here are some tips on the strategies I used and some things I wish I’d known
   in advance.
-dateModified: '2017-08-07T15:03:18.377Z'
-datePublished: '2017-08-07T15:03:21.218Z'
+dateModified: '2017-08-07T15:09:07.553Z'
+datePublished: '2017-08-07T15:09:08.792Z'
 title: 3 days to OCA Java SE 8 Programmer I (1Z0-808)
 author: []
 publisher:
@@ -44,7 +44,7 @@ There is no guarantee that using these tips will allow you to pass. Bear in mind
 
 ## Exam day
 
-* **Bring foam or wax ear plugs**, so that the noise of other candidates doesn't disturb you. My exam centre provided ear plugs and I was very glad they did. I wouldn't have thought to bring them myself. 
+* **Bring foam or wax ear plugs**, so that the noise of other candidates doesn't disturb you. My exam centre provided ear plugs and I was very glad they did. I wouldn't have thought to bring them myself.
 
 ### Getting there
 
@@ -57,7 +57,7 @@ There is no guarantee that using these tips will allow you to pass. Bear in mind
 
 ### During the exam
 
-**Pretend you are the Java compiler. **
+**Pretend you are the Java compiler.**
 
 * **If one of the answers is "does not compile" or "compilation error** on line _N" _you know there may be a compilation error in the presented source code.
 
@@ -65,21 +65,20 @@ There is no guarantee that using these tips will allow you to pass. Bear in mind
 
 **Time keeping.**
 
-* **Check in regularly****against your plan** during the exam. For example, at 30 minutes in, you should have about 15 questions completed. You may need to speed up if you are behind. 
+* **Check in regularly****against your plan** during the exam. For example, at 30 minutes in, you should have about 15 questions completed. You may need to speed up if you are behind.
 * **Don't panic if you are behind.** Some questions are harder than others and will take more time. I got a bunch of easier questions in the middle which allowed me to make up time. If you must move on, strike out (on PC, right click) the answers you're sure are not correct. This will speed up your review process later.
 * **Provide an answer to every question. **Press the _Review _button at the end to check. Pick the most plausible of the answers you did not eliminate in your earlier pass. You will never lose marks by guessing, but you may gain marks!
 
 ### After the exam
 
-* **Celebrate! Pass or fail, you have definitely learnt something **about the material. 
+* **Celebrate! Pass or fail, you have definitely learnt something **about the material.
 * **You should get an email with a link to your results within 30 minutes.**
-* The results screen will list **which exam objectives you lost marks on. Review the material on these** to solidify your learning. 
-* If you passed, congratulations! Take some time to relax, then prepare for your next exam. You were brave enough to take the exam and expose yourself to the possibility of failure. 
+* The results screen will list **which exam objectives you lost marks on. Review the material on these** to solidify your learning.
+* If you passed, congratulations! Take some time to relax, then prepare for your next exam. 
 * If you failed, hang your head up high. You were brave enough to take the exam and expose yourself to the possibility of failure. If you can't fail, you can't learn. Many competent programmers are not good test takers. And many good test takers are not competent programmers!
 
 ## Resources
 
-* My exam centre was quiet and staffed by a friendly and efficient woman whose name I've forgotten. Use them if you're in Dublin.
-* Exam discount package with retake voucher
+* My exam centre was quiet and staffed by a friendly and efficient woman whose name I've forgotten. Use them if you're in Dublin. TODO link
+* Exam discount package with retake voucher TODO link
 * Other tips: https://transcender.wordpress.com/2011/01/27/oracle-exam-strategies/
-*
