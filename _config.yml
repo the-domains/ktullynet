@@ -1,0 +1,79 @@
+typography_spectrum: 0.3992150465492159
+color:
+  brandStrength: 0.7865168675780296
+  lightness: 0.9623310933820903
+  saturation: 0.9550579353235662
+  rhythmicContrast: 0.7731114292982966
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+layout_spectrum: 0.7364068920724094
+name: ktully.net
+title: Kieran Tully
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dbdae77-03e5-4bbe-9606-298154dd6918.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dbdae77-03e5-4bbe-9606-298154dd6918.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55d91704-08f3-4d05-8b86-a2b8069214c8.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/55d91704-08f3-4d05-8b86-a2b8069214c8.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  Software Engineering Manager @Mastercard_PGS. Tenor @Cuorechoir &
+  @mornington_sing. Head banger @ low flying aircraft. Views expressed are my
+  own.
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a1e6de2-da78-474a-b036-84eed55c900e.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/716392c1-cdf5-4606-b6b5-a6623a1337a1.jpg
+author:
+  name: Kieran Tully
+  url: 'http://ktully.net'
+opengraph:
+  type: Home Page
+url: 'http://ktully.net'
