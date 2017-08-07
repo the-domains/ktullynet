@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Software Engineering Manager @Mastercard_PGS. '
-dateModified: '2017-08-07T15:06:44.231Z'
-datePublished: '2017-08-07T15:06:45.054Z'
+dateModified: '2017-08-07T15:06:48.177Z'
+datePublished: '2017-08-07T15:06:50.023Z'
 title: About Kieran
 author: []
 publisher: {}
