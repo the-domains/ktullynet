@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kieran Tully]]></title>
+        <description><![CDATA[Kieran Tully]]></description>
+        <link>http://ktully.net/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Aug 2017 13:05:43 GMT</lastBuildDate>
+        <atom:link href="http://ktully.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3 days to OCA Java SE 8 Programmer I (1Z0-808)]]></title>
+            <description><![CDATA[<h1>3 days to OCA Java SE 8 Programmer I (1Z0-808)</h1>,<article><h1>Java SE 8 Programmer I | Oracle Certification Exam</h1><p>Within 30 minutes of completing your Oracle Certification exam, you will receive an email from Oracle notifying you that your exam results are available in CertView. If you have previously authenticated your CertView account, simply login and select the option to &quot;See My New Exam Result Now.&quot;</p></article>,<p>More to come.</p>]]></description>
+            <link>https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&amp;get_params=p_exam_id:1Z0-808</link>
+            <guid isPermaLink="false">884aa4a4-b8d9-48a9-9e67-53074c41a9c2</guid>
+            <pubDate>Mon, 07 Aug 2017 13:05:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
