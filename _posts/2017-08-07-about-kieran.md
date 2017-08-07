@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'Software Engineering Manager @Mastercard_PGS. '
-dateModified: '2017-08-07T15:06:48.177Z'
-datePublished: '2017-08-07T15:06:50.023Z'
+description: Software Engineering Manager @Mastercard_PGS.
+dateModified: '2017-08-07T15:09:47.638Z'
+datePublished: '2017-08-07T15:09:48.428Z'
 title: About Kieran
 author: []
 publisher: {}
@@ -15,12 +15,12 @@ _type: Blurb
 ---
 # About Kieran
 
-Software Engineering Manager @Mastercard\_PGS. 
+Software Engineering Manager @Mastercard\_PGS.
 
-Tenor @Cuorechoir & @mornington\_sing. 
+Tenor @Cuorechoir & @mornington\_sing.
 
-Head banger @ low flying aircraft. 
+Head banger @ low flying aircraft.
 
 Views expressed are my own.
 
-All material on this website is Copyright (C) 2017 Kieran Tully unless otherwise stated. All rights reserved.
+All material on this website is **Copyright (C) 2017 Kieran Tully** unless otherwise stated. **All rights reserved.**
